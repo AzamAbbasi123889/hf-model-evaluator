@@ -1,0 +1,4 @@
+datasets>=2.14.0
+evaluate>=0.4.0
+numpy>=1.24.0
+transformers>=4.35.0
